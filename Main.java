@@ -150,7 +150,7 @@ class ATM {
 public class Main {
     public static void main(String[] args) {
         ATM atm = new ATM();
-        atm.addUser("user1", "1234", 1000.0); // Sample user
+        atm.addUser("ANIKET", "1234", 10000.0); // Sample user
         atm.start();
     }
 }
